@@ -2,6 +2,7 @@ body {
   background-color: #fdf6f9; /* soft pink */
   font-family: 'Arial', sans-serif;
   display: flex;
+  flex-direction: column;  /* stack vertically */
   justify-content: center;
   align-items: center;
   height: 100vh;
